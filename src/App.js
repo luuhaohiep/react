@@ -12,9 +12,9 @@ class App extends Component {
        
           <nav className="navbar navbar-inverse">
             <ul className="nav navbar-nav">
-              <li><a>home</a></li>
-              <li><a>contact</a></li>
-              <li><a>detail</a></li>
+              <li><a>home1</a></li>
+              <li><a>contact1</a></li>
+              <li><a>detail1</a></li>
             </ul>
           </nav>
           <Route exact path="/" component={Home} />
